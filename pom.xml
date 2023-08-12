@@ -7,7 +7,7 @@
   <artifactId>Deepthi</artifactId>
   <packaging>pom</packaging>
   <version>7.0-RELEASE</version>
-  <name>Maven Project</name>
+  <name>Deepthi_project</name>
   <description>Sample Maven project with a working, deployable site.</description>
   <url>http://www.example.com</url>
 
