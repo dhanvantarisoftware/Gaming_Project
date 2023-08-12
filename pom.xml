@@ -6,7 +6,7 @@
   <groupId>infosys</groupId>
   <artifactId>sravani</artifactId>
   <packaging>pom</packaging>
-  <version>1.0-RELEASE</version>
+  <version>1.0-SNAPSHOT</version>
   <name>Sravani Project</name>
   <description>Sample Maven project with a working, deployable site.</description>
   <url>http://www.example.com</url>
