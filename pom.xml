@@ -3,8 +3,8 @@
 
   <modelVersion>4.0.0</modelVersion> 
 
-  <groupId>pravallika</groupId>
-  <artifactId>maven-project</artifactId>
+  <groupId>amazon</groupId>
+  <artifactId>pravallika</artifactId>
   <packaging>pom</packaging>
   <version>3.0-SNAPSHOT</version>
   <name>Maven Project</name>
