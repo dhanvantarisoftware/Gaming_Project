@@ -3,7 +3,7 @@
 
   <modelVersion>4.0.0</modelVersion> 
 
-  <groupId>divya_project</groupId>
+  <groupId>divya</groupId>
   <artifactId>irctc-project</artifactId>
   <packaging>pom</packaging>
   <version>1.0-SNAPSHOT</version>
