@@ -7,7 +7,7 @@
   <artifactId>durga</artifactId>
   <packaging>pom</packaging>
   <version>1.0-RELEASE</version>
-  <name>durga_project</name>
+  <name>durga</name>
   <description>Sample Maven project with a working, deployable site.</description>
   <url>http://www.example.com</url>
 
