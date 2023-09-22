@@ -3,8 +3,8 @@
 
   <modelVersion>4.0.0</modelVersion> 
 
-  <groupId>cupapp</groupId>
-  <artifactId>tarun</artifactId>
+  <groupId>com.example.maven-project</groupId>
+  <artifactId>maven-project</artifactId>
   <packaging>pom</packaging>
   <version>1.0-SNAPSHOT</version>
   <name>Tarun Project</name>
